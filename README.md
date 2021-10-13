@@ -3,7 +3,7 @@
 # Machine Learning Mini Project
 - Build and evaluate machine learning models for a classification based problem
 - Apply various model evaluation techniques from technical and business perspective
-- LINK: https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf
+- LINK: https://github.com/nguoren/Machine-Learning-Mini-Project/blob/main/Mini_project_3_Ng%20Guoren.ipynb
 
 ## Introduction: SouthEast Asia Telecom Provider
 - Provider of Telecom services to prepaid and postpaid customers with a variety of product offers and plans
